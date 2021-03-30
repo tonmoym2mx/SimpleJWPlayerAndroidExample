@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">103.89.68.179</domain>
+        <domain includeSubdomains="true">103.89.68.180</domain>
+        <domain includeSubdomains="true">103.89.68.91</domain>
+        <domain includeSubdomains="true">demo.jwplayer.com</domain>
+        <domain includeSubdomains="true">playertest.longtailvideo.com</domain>
+
+    </domain-config>
+</network-security-config>

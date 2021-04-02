@@ -9,7 +9,7 @@
                         <MediaFiles>
                             <MediaFile type="video/mp4" bitrate="300" width="1280" height="720">
                               https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4
-				</MediaFile>
+			    </MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>

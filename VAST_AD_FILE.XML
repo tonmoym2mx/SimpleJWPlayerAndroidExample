@@ -8,8 +8,8 @@
                     <Linear>
                         <MediaFiles>
                             <MediaFile type="video/mp4" bitrate="300" width="1280" height="720">
-                               https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/15/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1617359912/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/0826C5C7B29EA39F6B80D8864BC99F6029B09C8E.A693637422948F924E46A35DCCA8BE4F42414BAA/key/ck2/file/file.mp4
-							  </MediaFile>
+                              https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4
+				</MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
